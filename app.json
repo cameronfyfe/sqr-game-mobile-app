@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sqrGame",
-    "slug": "sqrGame",
+    "name": "sqr-game-mobile-app",
+    "slug": "sqr-game-mobile-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
